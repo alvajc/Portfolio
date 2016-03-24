@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 150px;
     position: absolute;
     opacity: 0;
-	top:0;
+  top:0;
 }
 #grid .mix .overlay:hover {
     opacity: .8;
@@ -530,4 +530,11 @@ label.valid {
     #page-profile .profile {
         margin: 0 auto 20px auto;
     }
+}
+.contactInfo {
+  margin-top: 40px;
+  font-size: 1.5em;
+}
+.skill-header {
+  font-size: 2em !important;
 }
