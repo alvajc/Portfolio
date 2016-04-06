@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-skills {
     padding: 75px 0;
-    background: #f7f7f7;
+    background: #DDDCDC;
     text-align: center;
 }
 #page-education {
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-experience {
     padding: 75px 0;
-    background: #f7f7f7;
+    background: #DDDCDC;
 }
 #page-portfolio {
     padding: 75px 0;
@@ -474,8 +474,8 @@ label.valid {
 .btn-linkedin:hover {
     color: #015786;
 }
-.btn-pinterest:hover {
-    color: #CA2128;
+.btn-github:hover {
+    color: black;
 }
 .btn-google:hover {
     color: #D3492C;
@@ -537,4 +537,7 @@ label.valid {
 }
 .skill-header {
   font-size: 2em !important;
+}
+.hire-me {
+  margin: 0px 10px !important;
 }
